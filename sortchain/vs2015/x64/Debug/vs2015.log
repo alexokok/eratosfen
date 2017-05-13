@@ -1,0 +1,7 @@
+﻿  sortchain.cpp
+c:\templet\newtemplet-master\samples\sortchain\sortchain.cpp(42): warning C4068: неизвестная директива pragma
+c:\templet\newtemplet-master\samples\sortchain\sortchain.cpp(69): warning C4068: неизвестная директива pragma
+c:\templet\newtemplet-master\samples\sortchain\sortchain.cpp(121): warning C4068: неизвестная директива pragma
+c:\templet\newtemplet-master\samples\sortchain\sortchain.cpp(202): warning C4068: неизвестная директива pragma
+  vs2015.vcxproj -> C:\Templet\newtemplet-master\samples\sortchain\vs2015\x64\Debug\vs2015.exe
+  vs2015.vcxproj -> C:\Templet\newtemplet-master\samples\sortchain\vs2015\x64\Debug\vs2015.pdb (Full PDB)
